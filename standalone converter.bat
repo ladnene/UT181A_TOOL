@@ -1,0 +1,1 @@
+pyinstaller --onefile UT181A.py
