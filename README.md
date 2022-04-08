@@ -3,7 +3,7 @@ Custom tool for xls files of UNI-T UT181A datalogger multimeter that gives you f
 
 -Plotting & graphing with various options like zoom, select, min&max values, screenshots, etc.
 
--Calculating integral of signal/graph to mesure for example battery capacity (integrating current over time) or power consumption (integrating power over time).
+-Calculating integrals of signals/graphs to mesure for example battery capacity (integrating current over time) or power consumption (integrating power over time).
 
 ![screenshot 92](https://user-images.githubusercontent.com/35897057/162367801-18e46a8a-1b9a-4bc2-9abb-0df300d4e82e.jpg)
 ![screenshot 93](https://user-images.githubusercontent.com/35897057/162367806-38ad1100-434c-4f97-b54f-8083838af3c1.jpg)
