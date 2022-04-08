@@ -200,7 +200,7 @@ def runProgram():
   ##      #print(sheet.cell(i, 3).value)
   ##      #print(integral)
       #messagebox.showinfo("Calculation result","integral="+str(integral))
-      MsgBox = tk.messagebox.askquestion ('Calculation result',"First sample="+start_sample+" Last sample="+last_sample+"      Integral="+str(integral)+" - Calculate again?")
+      MsgBox = tk.messagebox.askquestion ('Calculation result',"File="+base_name+" First sample="+start_sample+" Last sample="+last_sample+"      Integral="+str(integral)+" - Calculate again?")
       if MsgBox == 'yes':
         #print("yes")
         CalculateAgain()
